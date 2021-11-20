@@ -1,0 +1,7 @@
+1. Create a start page (html and css)
+    a. Button when clicked starts a timer
+
+2. Create a timer (funciton)
+Time shoukl
+
+
